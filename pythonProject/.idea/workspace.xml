@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="549f536b-1b26-44b5-a38b-f4630dd7cbd9" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="29f327da-fb04-44de-b577-ebfb05e1a1f7" />
+  <component name="ProjectId" id="1yi1XhVfIZNXMGjRor44ClMhxmJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pythonProject4" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\亿利和\PycharmProjects\pythonProject\UI_active\BASE_PAGE" />
+      <recent name="C:\Users\亿利和\PycharmProjects\pythonProject\UI_active\common" />
+      <recent name="C:\Users\亿利和\PycharmProjects\pythonProject\UI_active\com" />
+      <recent name="C:\Users\亿利和\PycharmProjects\pythonProject\UI_active" />
+      <recent name="C:\Users\亿利和\PycharmProjects\pythonProject\UI_active\TEST_CASE" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.form1">
+    <configuration name="data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dmoe01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dmoe01/data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="form1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dmoe01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dmoe01/form1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_app.Test_dome.test_query_get" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dmoe01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_app.Test_dome.test_query_get&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_app.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dmoe01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/dmoe01/test_app.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_case1_01.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UI_active" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/UI_active/test_case1_01.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.form1" />
+        <item itemvalue="Python tests.pytest in test_case1_01.py" />
+        <item itemvalue="Python tests.pytest in test_app.py" />
+        <item itemvalue="Python tests.pytest for test_app.Test_dome.test_query_get" />
+        <item itemvalue="Python.data" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="549f536b-1b26-44b5-a38b-f4630dd7cbd9" name="默认更改列表" comment="" />
+      <created>1632719636686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632719636686</updated>
+      <workItem from="1632719645091" duration="122000" />
+      <workItem from="1632719776154" duration="58000" />
+      <workItem from="1632720853393" duration="701000" />
+      <workItem from="1632724833493" duration="26000" />
+      <workItem from="1632788933048" duration="789000" />
+      <workItem from="1632799464590" duration="3000" />
+      <workItem from="1632904454590" duration="718000" />
+      <workItem from="1633913123326" duration="236000" />
+      <workItem from="1633921773330" duration="109000" />
+      <workItem from="1633921890131" duration="521000" />
+      <workItem from="1633922424401" duration="1467000" />
+      <workItem from="1633929184700" duration="7000" />
+      <workItem from="1634094725149" duration="477000" />
+      <workItem from="1635901972862" duration="8887000" />
+      <workItem from="1635993976002" duration="823000" />
+      <workItem from="1636008895165" duration="5263000" />
+      <workItem from="1636014242271" duration="637000" />
+      <workItem from="1636015299808" duration="908000" />
+      <workItem from="1636077489601" duration="1007000" />
+      <workItem from="1636081105564" duration="1845000" />
+      <workItem from="1636333131449" duration="22864000" />
+      <workItem from="1636530063892" duration="799000" />
+      <workItem from="1636702392864" duration="2455000" />
+      <workItem from="1638758065094" duration="15000" />
+      <workItem from="1638758088493" duration="6253000" />
+      <workItem from="1639020518659" duration="677000" />
+      <workItem from="1639386318434" duration="166000" />
+      <workItem from="1639386749727" duration="36000" />
+      <workItem from="1639387014093" duration="1082000" />
+      <workItem from="1639464018530" duration="12243000" />
+      <workItem from="1639703582346" duration="32014000" />
+      <workItem from="1640150512649" duration="1760000" />
+      <workItem from="1640152306077" duration="3660000" />
+      <workItem from="1640323997134" duration="7501000" />
+      <workItem from="1640826702406" duration="767000" />
+      <workItem from="1641285073890" duration="867000" />
+      <workItem from="1641285986241" duration="63000" />
+      <workItem from="1641286236913" duration="9112000" />
+      <workItem from="1641450864686" duration="2836000" />
+      <workItem from="1643098281478" duration="2876000" />
+      <workItem from="1643441103409" duration="2668000" />
+      <workItem from="1644211921728" duration="31126000" />
+      <workItem from="1644914767732" duration="1140000" />
+      <workItem from="1644990541711" duration="1484000" />
+      <workItem from="1645080479058" duration="2637000" />
+      <workItem from="1645407650126" duration="8303000" />
+      <workItem from="1645496912387" duration="10995000" />
+      <workItem from="1645585213529" duration="10687000" />
+      <workItem from="1646012192140" duration="18664000" />
+      <workItem from="1646098778901" duration="26401000" />
+      <workItem from="1646730477138" duration="148000" />
+      <workItem from="1646730755237" duration="6459000" />
+      <workItem from="1646817866811" duration="19365000" />
+      <workItem from="1647477722344" duration="4711000" />
+      <workItem from="1647570051241" duration="606000" />
+      <workItem from="1647932582666" duration="5551000" />
+      <workItem from="1648103669114" duration="3279000" />
+      <workItem from="1648196567008" duration="543000" />
+      <workItem from="1648791643013" duration="1892000" />
+      <workItem from="1648794469735" duration="208000" />
+      <workItem from="1649378512999" duration="1814000" />
+      <workItem from="1649739528490" duration="54000" />
+      <workItem from="1649755462826" duration="1079000" />
+      <workItem from="1649819341867" duration="1268000" />
+      <workItem from="1650009644569" duration="84000" />
+      <workItem from="1650011704126" duration="566000" />
+      <workItem from="1650335535146" duration="35000" />
+      <workItem from="1651906507420" duration="1118000" />
+      <workItem from="1651911575654" duration="62000" />
+      <workItem from="1652174788374" duration="284000" />
+      <workItem from="1652335743851" duration="2348000" />
+      <workItem from="1654579164765" duration="7264000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="157" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1646987691237">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="499" y="157" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.816@0.0.1536.816" timestamp="1646987691237" />
+    <state x="549" y="165" key="FileChooserDialogImpl" timestamp="1648105071269">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="549" y="165" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1648105071269" />
+    <state width="1493" height="252" key="GridCell.Tab.0.bottom" timestamp="1654824429927">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1654824429927" />
+    <state width="1493" height="227" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1646300827697" />
+    <state width="1493" height="252" key="GridCell.Tab.0.center" timestamp="1654824429927">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1654824429927" />
+    <state width="1493" height="227" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1646300827697" />
+    <state width="1493" height="252" key="GridCell.Tab.0.left" timestamp="1654824429926">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1654824429926" />
+    <state width="1493" height="227" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1646300827697" />
+    <state width="1493" height="252" key="GridCell.Tab.0.right" timestamp="1654824429927">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1654824429927" />
+    <state width="1493" height="227" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1646300827697" />
+    <state width="1342" height="241" key="GridCell.Tab.1.bottom" timestamp="1647506047520">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1342" height="241" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1647506047520" />
+    <state width="1342" height="241" key="GridCell.Tab.1.center" timestamp="1647506047520">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1342" height="241" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1647506047520" />
+    <state width="1342" height="241" key="GridCell.Tab.1.left" timestamp="1647506047520">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1342" height="241" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1647506047520" />
+    <state width="1342" height="241" key="GridCell.Tab.1.right" timestamp="1647506047520">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1342" height="241" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1647506047520" />
+    <state x="270" y="53" key="SettingsEditor" timestamp="1652345442740">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="270" y="53" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1652345442740" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1646113286126">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1646113286126" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dmoe/te_a.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dmoe/te_a.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dmoe/te_a.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dmoe/test_b.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/UI_active/TEST_CASE/te_a.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/UI_active/BASE_PAGE/Sql.py</url>
+          <line>97</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/UI_active/Test_Case1/Case1_Login.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/UI_active/Logger/logger.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/UI_active/test_case1_01.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonProject$pytest_in_test_c_py.coverage" NAME="pytest in test_c.py Coverage Results" MODIFIED="1644289867723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UI_active" />
+    <SUITE FILE_PATH="coverage/pythonProject$pytest_for_test_b_Test_1.coverage" NAME="pytest for test_b.Test_1 Coverage Results" MODIFIED="1640333818132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dmoe" />
+    <SUITE FILE_PATH="coverage/pythonProject$pytest_in_test_case1_01_py.coverage" NAME="pytest in test_case1_01.py Coverage Results" MODIFIED="1654579189890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UI_active" />
+    <SUITE FILE_PATH="coverage/pythonProject$pytest_in_test_b_py.coverage" NAME="pytest in test_b.py Coverage Results" MODIFIED="1640336214634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dmoe" />
+    <SUITE FILE_PATH="coverage/pythonProject$do.coverage" NAME="do Coverage Results" MODIFIED="1644541965918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dmoe01" />
+    <SUITE FILE_PATH="coverage/pythonProject$common_date.coverage" NAME="common_date Coverage Results" MODIFIED="1646187424075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UI_active/common" />
+    <SUITE FILE_PATH="coverage/pythonProject$date_yaml.coverage" NAME="date_yaml Coverage Results" MODIFIED="1644289440414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UI_active/com" />
+    <SUITE FILE_PATH="coverage/pythonProject$data.coverage" NAME="data Coverage Results" MODIFIED="1648792613777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dmoe01" />
+    <SUITE FILE_PATH="coverage/pythonProject$te_a.coverage" NAME="te_a Coverage Results" MODIFIED="1645524293369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UI_active/TEST_CASE" />
+    <SUITE FILE_PATH="coverage/pythonProject$test_asbdj__1_.coverage" NAME="test_asbdj (1) Coverage Results" MODIFIED="1636014287745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/pythonProject$pytest_in_test_app_py.coverage" NAME="pytest in test_app.py Coverage Results" MODIFIED="1650012259954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dmoe01" />
+    <SUITE FILE_PATH="coverage/pythonProject$pytest_for_test_b_Test_1_test_2.coverage" NAME="pytest for test_b.Test_1.test_2 Coverage Results" MODIFIED="1639725794953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dmoe" />
+    <SUITE FILE_PATH="coverage/pythonProject$123.coverage" NAME="123 Coverage Results" MODIFIED="1636010473279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/pythonProject$form1.coverage" NAME="form1 Coverage Results" MODIFIED="1654752487508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dmoe01" />
+    <SUITE FILE_PATH="coverage/pythonProject$pytest_in_test_b_py__1_.coverage" NAME="pytest in test_b.py (1) Coverage Results" MODIFIED="1641345349444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UI_active" />
+    <SUITE FILE_PATH="coverage/pythonProject$Api_base.coverage" NAME="Api-base Coverage Results" MODIFIED="1646988318572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UI_active/BASE_PAGE" />
+    <SUITE FILE_PATH="coverage/pythonProject$test.coverage" NAME="test Coverage Results" MODIFIED="1636012793792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/pythonProject$te_a__1_.coverage" NAME="te_a (1) Coverage Results" MODIFIED="1644212600199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dmoe" />
+    <SUITE FILE_PATH="coverage/pythonProject$logger.coverage" NAME="logger Coverage Results" MODIFIED="1647506092959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UI_active/Logger" />
+    <SUITE FILE_PATH="coverage/pythonProject$bacd__1_.coverage" NAME="bacd (1) Coverage Results" MODIFIED="1636357622184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dmoe" />
+    <SUITE FILE_PATH="coverage/pythonProject$dome.coverage" NAME="dome Coverage Results" MODIFIED="1636530794780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dmoe" />
+    <SUITE FILE_PATH="coverage/pythonProject$pytest_in_forms_py.coverage" NAME="pytest in do.py Coverage Results" MODIFIED="1644541812134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dmoe01" />
+    <SUITE FILE_PATH="coverage/pythonProject$Sql.coverage" NAME="Sql Coverage Results" MODIFIED="1645518176894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UI_active/BASE_PAGE" />
+    <SUITE FILE_PATH="coverage/pythonProject$test_asbdj__2_.coverage" NAME="test_asbdj (2) Coverage Results" MODIFIED="1639552104419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dmoe" />
+    <SUITE FILE_PATH="coverage/pythonProject$forms__1_.coverage" NAME="forms (1) Coverage Results" MODIFIED="1646818879618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dmoe01" />
+    <SUITE FILE_PATH="coverage/pythonProject$pytest_for_test_app_Test_dome_test_query_get.coverage" NAME="pytest for test_app.Test_dome.test_query_get Coverage Results" MODIFIED="1650012228371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dmoe01" />
+    <SUITE FILE_PATH="coverage/pythonProject$Case1_Login.coverage" NAME="Case1_Login Coverage Results" MODIFIED="1647506398037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UI_active/Test_Case1" />
+  </component>
+</project>
