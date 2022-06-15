@@ -1,0 +1,107 @@
+{
+  "uid" : "8f8163c5ebae1034",
+  "name" : "标题1",
+  "fullName" : "test_c.Test_1#test_1",
+  "historyId" : "9d6887bafaed32dd630cc21f769f8f92",
+  "time" : {
+    "start" : 1646123110640,
+    "stop" : 1646123110641,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login",
+    "time" : {
+      "start" : 1646123079123,
+      "stop" : 1646123079123,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ab46aaa0937a2cdd",
+      "name" : "log",
+      "source" : "ab46aaa0937a2cdd.txt",
+      "type" : "text/plain",
+      "size" : 152
+    }, {
+      "uid" : "e3b3f99216b89f79",
+      "name" : "stdout",
+      "source" : "e3b3f99216b89f79.txt",
+      "type" : "text/plain",
+      "size" : 208
+    }, {
+      "uid" : "93f6dfc2be8262e4",
+      "name" : "stderr",
+      "source" : "93f6dfc2be8262e4.txt",
+      "type" : "text/plain",
+      "size" : 995
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "一级标签"
+  }, {
+    "name" : "story",
+    "value" : "二级标签"
+  }, {
+    "name" : "tag",
+    "value" : "dependency"
+  }, {
+    "name" : "suite",
+    "value" : "test_c"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_1"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4SM3BQR"
+  }, {
+    "name" : "thread",
+    "value" : "33716-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_c"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "dependency" ]
+  },
+  "source" : "8f8163c5ebae1034.json",
+  "parameterValues" : [ ]
+}

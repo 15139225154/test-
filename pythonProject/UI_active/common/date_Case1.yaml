@@ -1,0 +1,10 @@
+#日志集成平台
+  浏览器: chrome
+  url: https://10.136.64.154:5601/app/kibana
+  账号: sinoinfo
+  密码: ZHXX@1qaz2wsx
+  查询条件: nyggqxj
+##########
+  json:
+    key1: $value1
+    key2: $value2

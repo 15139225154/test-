@@ -1,0 +1,81 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test_c",
+    "children" : [ {
+      "name" : "标题1",
+      "uid" : "f37a3425010969af",
+      "parentUid" : "67a5aed457b21acdba2e628053b3d5a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646123398032,
+        "stop" : 1646123398033,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "标题2",
+      "uid" : "745f067306471ad0",
+      "parentUid" : "67a5aed457b21acdba2e628053b3d5a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646123420392,
+        "stop" : 1646123420392,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "标题3",
+      "uid" : "e05587a0859f0bd3",
+      "parentUid" : "67a5aed457b21acdba2e628053b3d5a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646123442680,
+        "stop" : 1646123442680,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "67a5aed457b21acdba2e628053b3d5a9"
+  }, {
+    "name" : "test_case1_01",
+    "children" : [ {
+      "name" : "查询能源关岗请休假",
+      "uid" : "c3e616828bbb8ea6",
+      "parentUid" : "a1b89d2c76934eb9cc54f54199541403",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646123460244,
+        "stop" : 1646123480049,
+        "duration" : 19805
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : true,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a1b89d2c76934eb9cc54f54199541403"
+  } ]
+}

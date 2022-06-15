@@ -1,0 +1,89 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_c",
+    "children" : [ {
+      "name" : "Test_1",
+      "children" : [ {
+        "name" : "标题1",
+        "uid" : "f37a3425010969af",
+        "parentUid" : "037d57ace1f346d25710abed694c0fc0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646123398032,
+          "stop" : 1646123398033,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "标题2",
+        "uid" : "745f067306471ad0",
+        "parentUid" : "037d57ace1f346d25710abed694c0fc0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646123420392,
+          "stop" : 1646123420392,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "标题3",
+        "uid" : "e05587a0859f0bd3",
+        "parentUid" : "037d57ace1f346d25710abed694c0fc0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646123442680,
+          "stop" : 1646123442680,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "037d57ace1f346d25710abed694c0fc0"
+    } ],
+    "uid" : "d6c4d3899169485a4de01ba75c134b27"
+  }, {
+    "name" : "test_case1_01",
+    "children" : [ {
+      "name" : "Test_Case1_01",
+      "children" : [ {
+        "name" : "查询能源关岗请休假",
+        "uid" : "c3e616828bbb8ea6",
+        "parentUid" : "34e555feef34d746600c5389e7cb8c92",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646123460244,
+          "stop" : 1646123480049,
+          "duration" : 19805
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "34e555feef34d746600c5389e7cb8c92"
+    } ],
+    "uid" : "c75d6ee597932305720ac9061b90e339"
+  } ]
+}

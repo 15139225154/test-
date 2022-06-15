@@ -1,0 +1,4 @@
+[te_a.py] [2022/03/01/16:25:41] [INFO] 日志：开始登录
+2022-03-01 16:25:42.2628380 [W:onnxruntime:, execution_frame.cc:770 onnxruntime::ExecutionFrame::VerifyOutputSizes] Expected shape from model of {1,19} does not match actual shape of {1,16} for output output
+2022-03-01 16:25:46.2983783 [W:onnxruntime:, execution_frame.cc:770 onnxruntime::ExecutionFrame::VerifyOutputSizes] Expected shape from model of {1,19} does not match actual shape of {1,16} for output output
+[te_a.py] [2022/03/01/16:25:59] [INFO] 日志：登录成功  title:应用列表 - 智慧移动平台

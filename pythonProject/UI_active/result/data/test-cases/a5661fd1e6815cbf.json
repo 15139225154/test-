@@ -1,0 +1,77 @@
+{
+  "uid" : "a5661fd1e6815cbf",
+  "name" : "标题1",
+  "fullName" : "test_case1_01.Test_Case1_01#test_01",
+  "historyId" : "49bb1638d720f618459afafdc65a0d44",
+  "time" : {
+    "start" : 1646113426971,
+    "stop" : 1646113445399,
+    "duration" : 18428
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "99604866a34b1ab7",
+      "name" : "stdout",
+      "source" : "99604866a34b1ab7.txt",
+      "type" : "text/plain",
+      "size" : 2322
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "查询能源关岗请休假"
+  }, {
+    "name" : "feature",
+    "value" : "一级标签"
+  }, {
+    "name" : "suite",
+    "value" : "test_case1_01"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Case1_01"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4SM3BQR"
+  }, {
+    "name" : "thread",
+    "value" : "29084-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case1_01"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a5661fd1e6815cbf.json",
+  "parameterValues" : [ ]
+}
