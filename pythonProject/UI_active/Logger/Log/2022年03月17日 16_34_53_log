@@ -1,5 +1,0 @@
-[logger.py] [2022/03/17/16:34:53] [DEBUG] debug信息
-[logger.py] [2022/03/17/16:34:53] [INFO] 日志：
-[logger.py] [2022/03/17/16:34:53] [WARNING] warning信息
-[logger.py] [2022/03/17/16:34:53] [ERROR] error信息
-[logger.py] [2022/03/17/16:34:53] [CRITICAL] critical信息

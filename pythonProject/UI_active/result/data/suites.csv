@@ -1,5 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Tue Mar 01 16:29:58 CST 2022","Tue Mar 01 16:29:58 CST 2022","1","","test_c","Test_1","","","标题1",""
-"passed","Tue Mar 01 16:30:20 CST 2022","Tue Mar 01 16:30:20 CST 2022","0","","test_c","Test_1","","","标题2",""
-"passed","Tue Mar 01 16:30:42 CST 2022","Tue Mar 01 16:30:42 CST 2022","0","","test_c","Test_1","","","标题3",""
-"passed","Tue Mar 01 16:31:00 CST 2022","Tue Mar 01 16:31:20 CST 2022","19805","","test_case1_01","Test_Case1_01","","","查询能源关岗请休假",""
